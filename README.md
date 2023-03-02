@@ -9,16 +9,15 @@ Tools:
   GitHub Project (Kanban)
  
  What we need based on user stories:
-
-  Information   
-    Actions:
-    Login / Logout
+   
+  Actions:
+   Login / Logout
     Reset Password
 
-    Student:
-      Create an Account
-      Edit Account Info
-      Close Account
+  Student:
+    Create an Account
+    Edit Account Info
+    Close Account
 
   Account Info:
     Login Name
@@ -26,6 +25,4 @@ Tools:
     City
     Subscribe Yes/No
     (authentication password)
-
-    Student:
-  Degree Info
+    (Student only) Degree Information
